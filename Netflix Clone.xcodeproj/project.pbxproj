@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		DF1F805829A298D800830A38 /* HeroHeaderUIVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1F805729A298D800830A38 /* HeroHeaderUIVIew.swift */; };
 		DF61E05829A46F800077DD09 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF61E05729A46F800077DD09 /* APICaller.swift */; };
+		DF61E05A29A474D70077DD09 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF61E05929A474D70077DD09 /* Movie.swift */; };
 		DF73A59529A1583500B19B9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF73A59429A1583500B19B9C /* AppDelegate.swift */; };
 		DF73A59729A1583500B19B9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF73A59629A1583500B19B9C /* SceneDelegate.swift */; };
 		DF73A59929A1583500B19B9C /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF73A59829A1583500B19B9C /* MainTabBarViewController.swift */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DF1F805729A298D800830A38 /* HeroHeaderUIVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIVIew.swift; sourceTree = "<group>"; };
 		DF61E05729A46F800077DD09 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
+		DF61E05929A474D70077DD09 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		DF73A59129A1583500B19B9C /* Netflix Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netflix Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF73A59429A1583500B19B9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DF73A59629A1583500B19B9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 		DFAFFD4229A1E8E700198D18 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				DF61E05929A474D70077DD09 /* Movie.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				DF73A59529A1583500B19B9C /* AppDelegate.swift in Sources */,
 				DF73A59729A1583500B19B9C /* SceneDelegate.swift in Sources */,
 				DF73A5AC29A15AB300B19B9C /* UpcomingViewController.swift in Sources */,
+				DF61E05A29A474D70077DD09 /* Movie.swift in Sources */,
 				DF73A5AA29A15A8900B19B9C /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
