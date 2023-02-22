@@ -20,6 +20,7 @@
 		DF73A5AE29A15ACF00B19B9C /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF73A5AD29A15ACF00B19B9C /* SearchViewController.swift */; };
 		DF73A5B029A15AF900B19B9C /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF73A5AF29A15AF900B19B9C /* DownloadsViewController.swift */; };
 		DF7AC3B229A5428800BE9552 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7AC3B129A5428800BE9552 /* Extensions.swift */; };
+		DF7AC3B429A548DA00BE9552 /* Tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7AC3B329A548DA00BE9552 /* Tv.swift */; };
 		DFAFFD4629A1E97F00198D18 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAFFD4529A1E97F00198D18 /* CollectionViewTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		DF73A5AD29A15ACF00B19B9C /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		DF73A5AF29A15AF900B19B9C /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		DF7AC3B129A5428800BE9552 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		DF7AC3B329A548DA00BE9552 /* Tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tv.swift; sourceTree = "<group>"; };
 		DFAFFD4529A1E97F00198D18 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				DF61E05929A474D70077DD09 /* Movie.swift */,
+				DF7AC3B329A548DA00BE9552 /* Tv.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				DF73A59729A1583500B19B9C /* SceneDelegate.swift in Sources */,
 				DF73A5AC29A15AB300B19B9C /* UpcomingViewController.swift in Sources */,
 				DF61E05A29A474D70077DD09 /* Movie.swift in Sources */,
+				DF7AC3B429A548DA00BE9552 /* Tv.swift in Sources */,
 				DF73A5AA29A15A8900B19B9C /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
